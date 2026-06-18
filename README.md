@@ -130,18 +130,6 @@ Main Menu:
 
 ---
 
-
-## 🔮 Future Improvements
-
-* Graphical User Interface (GUI)
-* User Authentication System
-* Advanced Search Filters
-* PDF Reports
-* Data Analytics Dashboard
-* Due Date Notifications
-
----
-
 ## 👨‍💻 Author
 
 **Gustavo Ferreira**
