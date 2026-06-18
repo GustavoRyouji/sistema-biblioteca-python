@@ -77,6 +77,7 @@ def emprestarLivros(conexao):
 
 
 def listarEmprestimo(conexao):
+    cabeçalho('LISTA DE EMPRÉSTIMOS')
     cursor = conexao.cursor()
     cursor.execute("""SELECT emprestimos.id, clientes.Nome, livros.Título,
                    emprestimos.data_emprestimo, emprestimos.status
