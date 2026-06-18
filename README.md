@@ -114,6 +114,23 @@ Main Menu:
 
 ---
 
+## Screenshots
+
+### Main Menu
+
+![Main Menu](images/Captura de tela 2026-06-18 110428.png)
+
+### Books Management
+
+![Books](images/Captura de tela 2026-06-18 110546.png)
+
+### Loan Management
+
+![Loans](images/Captura de tela 2026-06-18 110758.png)
+
+---
+
+
 ## 🔮 Future Improvements
 
 * Graphical User Interface (GUI)
